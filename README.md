@@ -1,47 +1,44 @@
 <div align="center">
 
 <!-- ================= BANNER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2418,100:00ff41&height=250&section=header&text=TAUFIQUE%20HASSAN&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=%3E%20Software%20Engineer%20_%20Cyber%20Security%20Enthusiast&descAlignY=55&descSize=16&descColor=00ff41" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2418,100:00ff41&height=260&section=header&text=TAUFIQUE%20HASSAN&fontSize=56&fontColor=00ff41&animation=fadeIn&fontAlignY=36&desc=%3E%20Software%20Engineer%20_%20Cyber%20Security%20Enthusiast&descAlignY=54&descSize=16&descColor=00ff41" width="100%"/>
 
 <!-- ================= TERMINAL TYPING SVG ================= -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00FF41&background=0D1117&center=true&vCenter=true&width=700&lines=root%40taufique%3A~%24+whoami;Computer+Science+%26+Engineering+Student;Software+Developer+%7C+Cyber+Security+Enthusiast;Machine+Learning+%26+Computer+Graphics;root%40taufique%3A~%24+_" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <p>
   <img src="https://img.shields.io/badge/status-online-00ff41?style=flat-square&labelColor=0d1117" alt="status" />
   <img src="https://komarev.com/ghpvc/?username=CodeByTaufique&label=PROFILE+VIEWS&color=00ff41&style=flat-square&labelColor=0d1117" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/CodeByTaufique?label=FOLLOWERS&style=flat-square&color=00ff41&labelColor=0d1117" alt="Followers" />
   <img src="https://img.shields.io/badge/BASE-Bangladesh-00ff41?style=flat-square&labelColor=0d1117" alt="Location" />
+  <img src="https://img.shields.io/badge/UNIVERSITY-Daffodil%20International-00ff41?style=flat-square&labelColor=0d1117" alt="University" />
 </p>
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-00ff41?style=flat-square&logo=linkedin&logoColor=0d1117&labelColor=0d1117" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-00ff41?style=flat-square&logo=vercel&logoColor=0d1117&labelColor=0d1117" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-00ff41?style=flat-square&logo=gmail&logoColor=0d1117&labelColor=0d1117" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/X-00ff41?style=flat-square&logo=x&logoColor=0d1117&labelColor=0d1117" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/DISCORD-00ff41?style=flat-square&logo=discord&logoColor=0d1117&labelColor=0d1117" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-00ff41?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-00ff41?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=0d1117" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-00ff41?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/X-00ff41?style=for-the-badge&logo=x&logoColor=0d1117&labelColor=0d1117" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/DISCORD-00ff41?style=for-the-badge&logo=discord&logoColor=0d1117&labelColor=0d1117" /></a>
 </p>
 
-</div>
+<sub><b>`whoami`</b> · <a href="#-about"><b>about.md</b></a> · <a href="#-tech-stack"><b>stack.sh</b></a> · <a href="#-analytics"><b>stats.log</b></a> · <a href="#-featured-projects"><b>projects/</b></a> · <a href="#-currently-learning"><b>learning.now</b></a> · <a href="#-2026-goals"><b>roadmap.2026</b></a> · <a href="#-connect"><b>connect.sh</b></a></sub>
 
-<div align="center">
-
-`whoami` · [`about.md`](#-about) · [`stack.sh`](#-tech-stack) · [`stats.log`](#-analytics) · [`projects/`](#-featured-projects) · [`learning.now`](#-currently-learning) · [`roadmap.2026`](#-2026-goals) · [`connect.sh`](#-connect)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00ff41,100:0d1117&height=3&width=1100" width="100%"/>
 
 </div>
-
----
 
 <br/>
 
 ## 📂 About
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="55%" valign="top">
 
 ```bash
 root@taufique:~$ cat about.md
@@ -58,16 +55,13 @@ status:       building, breaking things, and fixing them again
 ```
 
 </td>
-</tr>
-</table>
-
-I'm a Computer Science & Engineering student building at the intersection of **systems programming**, **computer graphics**, and **security**. My core work runs on **C/C++** and **OpenGL** — rendering, simulation, and low-level problem solving — while I actively train toward **cyber security and ethical hacking**, treating every system I build as something I should also know how to break.
+<td width="45%" valign="top">
 
 ```diff
-+ currently building     : Computer Graphics, Machine Learning, Cyber Security projects
-+ currently sharpening   : Ethical Hacking, Burp Suite, Advanced C++
-+ open to                : open-source, security research, and ML collaborations
-- avoiding                : shipping code I haven't tried to break myself
++ currently building   : Graphics / ML / Security projects
++ currently sharpening : Ethical Hacking, Burp Suite, C++
++ open to               : open-source & security collab
+- avoiding               : shipping unverified code
 ```
 
 <details>
@@ -78,13 +72,24 @@ I'm a Computer Science & Engineering student building at the intersection of **s
 [ACCESS GRANTED]
 
 log: every clean codebase started as a messy one.
-log: the best exploit is the one you find in your own code first.
+log: the best exploit is the one you find in
+     your own code first.
 log: still debugging. always debugging.
 
 connection closed.
 ```
 
 </details>
+
+</td>
+</tr>
+</table>
+
+I'm a Computer Science & Engineering student building at the intersection of **systems programming**, **computer graphics**, and **security**. My core work runs on **C/C++** and **OpenGL** — rendering, simulation, and low-level problem solving — while I actively train toward **cyber security and ethical hacking**, treating every system I build as something I should also know how to break.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00ff41,100:0d1117&height=3&width=1100" width="100%"/>
+</div>
 
 <br/>
 
@@ -140,6 +145,19 @@ connection closed.
 
 <br/>
 
+<div align="center">
+
+**Core Proficiency**
+
+| | | |
+|---|---|---|
+| `C / C++` <br/> ![](https://progress-bar.dev/90/?width=180&color=00ff41&suffix=%20) | `Python` <br/> ![](https://progress-bar.dev/85/?width=180&color=00ff41&suffix=%20) | `OpenGL` <br/> ![](https://progress-bar.dev/80/?width=180&color=00ff41&suffix=%20) |
+| `Data Structures & Algorithms` <br/> ![](https://progress-bar.dev/85/?width=180&color=00ff41&suffix=%20) | `Cyber Security Fundamentals` <br/> ![](https://progress-bar.dev/65/?width=180&color=00ff41&suffix=%20) | `Machine Learning` <br/> ![](https://progress-bar.dev/60/?width=180&color=00ff41&suffix=%20) |
+
+</div>
+
+<br/>
+
 <details>
 <summary><b>$ cat foundations.txt</b> — Computer Science foundations & soft skills</summary>
 <br/>
@@ -154,6 +172,10 @@ Team Leadership · Communication · Collaboration · Critical Thinking · Analyt
 Software Engineering · Cyber Security · Ethical Hacking · Artificial Intelligence · Machine Learning · Computer Vision · Computer Graphics · Open Source · Full Stack Development · Cloud Computing · DevOps · Mobile Development · UI/UX Design
 
 </details>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00ff41,100:0d1117&height=3&width=1100" width="100%"/>
+</div>
 
 <br/>
 
@@ -171,6 +193,7 @@ Software Engineering · Cyber Security · Ethical Hacking · Artificial Intellig
 
 <br/>
 
+<sub>contribution activity</sub><br/>
 <img src="https://raw.githubusercontent.com/CodeByTaufique/CodeByTaufique/output/github-contribution-grid-snake.svg" alt="contribution graph animation" width="98%"/>
 
 </div>
@@ -183,71 +206,75 @@ Software Engineering · Cyber Security · Ethical Hacking · Artificial Intellig
 </div>
 </details>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00ff41,100:0d1117&height=3&width=1100" width="100%"/>
+</div>
+
 <br/>
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**`smart-metro-rail-simulation/`**
+### 🚆 Smart Metro Rail Station Simulation
 Simulation modeling metro rail station operations — scheduling, movement, and passenger flow logic.
 
-`C++` `OpenGL` `Simulation`
+<img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=00ff41"/> <img src="https://img.shields.io/badge/OpenGL-0d1117?style=flat-square&logo=opengl&logoColor=00ff41"/> <img src="https://img.shields.io/badge/status-completed-00ff41?style=flat-square&labelColor=0d1117"/>
 
-[→ repository](#)
+**[→ view repository](#)**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**`pixel-panic-saving-reality/`**
+### 🎮 Pixel Panic: Saving Reality.exe
 A pixel-art style game project blending storytelling with gameplay mechanics and creative problem-solving.
 
-`Game Development` `C++`
+<img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=00ff41"/> <img src="https://img.shields.io/badge/Game%20Dev-0d1117?style=flat-square&labelColor=0d1117&color=00ff41"/> <img src="https://img.shields.io/badge/status-completed-00ff41?style=flat-square&labelColor=0d1117"/>
 
-[→ repository](#)
+**[→ view repository](#)**
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**`flycash-mobile-banking/`**
+### 💰 FlyCash Mobile Banking System
 A mobile banking system concept covering core financial operations with a focus on clean, secure design.
 
-`Software Engineering` `Database`
+<img src="https://img.shields.io/badge/Software%20Engineering-0d1117?style=flat-square&labelColor=0d1117&color=00ff41"/> <img src="https://img.shields.io/badge/Database-0d1117?style=flat-square&labelColor=0d1117&color=00ff41"/> <img src="https://img.shields.io/badge/status-completed-00ff41?style=flat-square&labelColor=0d1117"/>
 
-[→ repository](#)
+**[→ view repository](#)**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**`opengl-graphics-lab/`**
+### 🎨 OpenGL Graphics Projects
 A collection of computer graphics projects exploring rendering, animation, lighting, and interactive 3D scenes.
 
-`C++` `OpenGL` `GLUT`
+<img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=00ff41"/> <img src="https://img.shields.io/badge/OpenGL-0d1117?style=flat-square&logo=opengl&logoColor=00ff41"/> <img src="https://img.shields.io/badge/status-ongoing-00ff41?style=flat-square&labelColor=0d1117"/>
 
-[→ repository](#)
+**[→ view repository](#)**
 
 </td>
 </tr>
 <tr>
-<td width="50%" colspan="2">
+<td width="100%" colspan="2" valign="top">
 
-**`cgpa-prediction-ml/`**
+### 📊 CGPA Prediction using Machine Learning
 A machine learning project predicting CGPA outcomes from academic data using regression models built with Python, Pandas, and Scikit-learn.
 
-`Python` `Machine Learning` `Scikit-learn`
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41"/> <img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=flat-square&logo=scikitlearn&logoColor=00ff41"/> <img src="https://img.shields.io/badge/status-completed-00ff41?style=flat-square&labelColor=0d1117"/>
 
-[→ repository](#)
+**[→ view repository](#)**
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00ff41,100:0d1117&height=3&width=1100" width="100%"/>
 </div>
 
 <br/>
@@ -263,7 +290,11 @@ A machine learning project predicting CGPA outcomes from academic data using reg
 
 </div>
 
-> Replace `repo-one`, `repo-two`, etc. with your actual repository names to activate these cards.
+<div align="center"><sub>Replace <code>repo-one</code>, <code>repo-two</code>, etc. with your actual repository names to activate these cards.</sub></div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00ff41,100:0d1117&height=3&width=1100" width="100%"/>
+</div>
 
 <br/>
 
@@ -280,6 +311,10 @@ A machine learning project predicting CGPA outcomes from academic data using reg
 
 </div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00ff41,100:0d1117&height=3&width=1100" width="100%"/>
+</div>
+
 <br/>
 
 ## 🎯 2026 Goals
@@ -288,13 +323,19 @@ A machine learning project predicting CGPA outcomes from academic data using reg
 root@taufique:~$ cat roadmap.2026
 ```
 
-- [ ] Contribute to 5+ meaningful open-source projects
-- [ ] Complete a hands-on Ethical Hacking / OSCP-style certification track
-- [ ] Publish 3 polished Computer Graphics (OpenGL) projects
-- [ ] Build and ship a full-stack application end to end
-- [ ] Strengthen Machine Learning fundamentals with a capstone project
-- [ ] Compete actively in competitive programming contests
-- [ ] Grow a technical presence through writing and GitHub
+| Goal | Status |
+|---|---|
+| Contribute to 5+ meaningful open-source projects | ⬜ Not started |
+| Complete a hands-on Ethical Hacking / OSCP-style track | ⬜ Not started |
+| Publish 3 polished Computer Graphics (OpenGL) projects | ⬜ Not started |
+| Build and ship a full-stack application end to end | ⬜ Not started |
+| Strengthen Machine Learning fundamentals with a capstone project | ⬜ Not started |
+| Compete actively in competitive programming contests | ⬜ Not started |
+| Grow a technical presence through writing and GitHub | ⬜ Not started |
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00ff41,100:0d1117&height=3&width=1100" width="100%"/>
+</div>
 
 <br/>
 
@@ -304,6 +345,10 @@ root@taufique:~$ cat roadmap.2026
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00ff41,100:0d1117&height=3&width=1100" width="100%"/>
 </div>
 
 <br/>
@@ -316,13 +361,21 @@ root@taufique:~$ cat roadmap.2026
 root@taufique:~$ ./connect.sh
 ```
 
-<a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41" /></a>
-<a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41" /></a>
-<a href="#"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00ff41" /></a>
-<a href="#"><img src="https://img.shields.io/badge/FACEBOOK-0d1117?style=for-the-badge&logo=facebook&logoColor=00ff41" /></a>
-<a href="#"><img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff41" /></a>
-<a href="#"><img src="https://img.shields.io/badge/DISCORD-0d1117?style=for-the-badge&logo=discord&logoColor=00ff41" /></a>
+<table>
+<tr>
+<td align="center" width="140"><a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41"/></a></td>
+<td align="center" width="140"><a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff41"/></a></td>
+<td align="center" width="140"><a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41"/></a></td>
+</tr>
+<tr>
+<td align="center"><a href="#"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00ff41"/></a></td>
+<td align="center"><a href="#"><img src="https://img.shields.io/badge/FACEBOOK-0d1117?style=for-the-badge&logo=facebook&logoColor=00ff41"/></a></td>
+<td align="center"><a href="#"><img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff41"/></a></td>
+</tr>
+<tr>
+<td align="center" colspan="3"><a href="#"><img src="https://img.shields.io/badge/DISCORD-0d1117?style=for-the-badge&logo=discord&logoColor=00ff41"/></a></td>
+</tr>
+</table>
 
 </div>
 
@@ -367,6 +420,7 @@ jobs:
 <br/>
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0a2418,100:0d1117&height=150&section=footer" width="100%"/>
 
 ```
