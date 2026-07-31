@@ -17,6 +17,10 @@
   <img src="https://img.shields.io/badge/University-Daffodil%20International%20University-0e75b6?style=flat&logo=googlescholar&logoColor=white" alt="University" />
 </p>
 
+<a href="https://github.com/CodeByTaufique">
+  <img src="https://count.getloli.com/get/@CodeByTaufique?theme=moebooru" alt="visitor country flags" />
+</a>
+
 <p>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -26,6 +30,14 @@
   <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
+
+</div>
+
+<div align="center">
+
+### 🧭 Jump To
+
+[About](#-about-me) · [Tech Stack](#️-tech-stack) · [Analytics](#-github-analytics) · [Projects](#-featured-projects) · [Play a Game 🎮](#-press-start) · [Learning](#-currently-learning) · [Goals](#-2026-goals) · [Dev Corner](#-dev-corner) · [Connect](#-connect-with-me)
 
 </div>
 
@@ -58,6 +70,28 @@ I'm a Computer Science & Engineering student at **Daffodil International Univers
 - 🤝 Open to collaborating on **open-source**, **security**, and **ML** projects
 - 💬 Ask me about **C/C++**, **OpenGL**, **Python**, or **Data Structures & Algorithms**
 - ⚡ Fun fact: I like turning coursework into full-blown projects
+
+<details>
+<summary>🕵️ Psst — click here for a secret</summary>
+<br/>
+
+```
+ You found the easter egg! 🥚
+
+ achievement_unlocked: "Curious Explorer"
+ reward: +10 XP, eternal respect from fellow devs
+
+  ██████╗ ██╗
+ ██╔════╝ ██║
+ ██║  ███╗██║
+ ██║   ██║╚═╝
+ ╚██████╔╝██╗
+  ╚═════╝ ╚═╝
+
+ gg — now go star a repo or two 😉
+```
+
+</details>
 
 <br/>
 
@@ -236,6 +270,62 @@ A machine learning project that predicts CGPA outcomes from academic data using 
 
 <br/>
 
+## 🕹️ Press Start
+
+<div align="center">
+
+**A little interactivity for anyone who scrolled this far 👇**
+
+</div>
+
+<details>
+<summary><b>🧩 Guess the Output</b> — click to open the challenge, click again for the answer</summary>
+<br/>
+
+```cpp
+#include <iostream>
+int main() {
+    int x = 5;
+    std::cout << x++ + ++x;
+    return 0;
+}
+```
+
+<details>
+<summary>💡 Reveal answer</summary>
+
+Output: **11** — `x++` uses `5` then becomes `6`, `++x` makes it `7` and uses `7` → `5 + 7 = 12`... but evaluation order of `+` operands is unsequenced in C++, so this is actually **undefined behavior**. If you got it right (or spotted the trap), you know your stuff. 🧠
+
+</details>
+</details>
+
+<details>
+<summary><b>🗺️ Choose Your Path</b> — pick a role and see where it leads</summary>
+<br/>
+
+- 🛡️ **The Security Analyst** → dives into Burp Suite, finds a stray endpoint, reports it responsibly. *+10 trust points.*
+- 🎨 **The Graphics Nerd** → spends 3 hours tuning OpenGL lighting for a scene nobody else will notice. *+10 craftsmanship points.*
+- 🤖 **The ML Tinkerer** → trains a model, gets 99% accuracy, immediately suspects overfitting. *+10 skepticism points.*
+- 🐛 **The Debugger** → stares at one semicolon for 45 minutes. *+10 patience points.*
+
+Whichever you picked — that's basically a day in my life. 😄
+
+</details>
+
+<details>
+<summary><b>🐍 Watch My Contribution Snake</b></summary>
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/CodeByTaufique/CodeByTaufique/output/github-contribution-grid-snake.svg" alt="Contribution Snake animating through GitHub contribution graph" width="100%"/>
+</div>
+
+> This animates automatically once the `snk` GitHub Action below is added to this repo — the snake literally eats through my contribution graph.
+
+</details>
+
+<br/>
+
 ## 🌱 Currently Learning
 
 <div align="center">
@@ -266,7 +356,15 @@ A machine learning project that predicts CGPA outcomes from academic data using 
 ## 💡 Dev Corner
 
 <div align="center">
+
+**A fresh quote every time this page loads:**
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+**...and a random programming joke, because why not:**
+
+<img src="https://readme-jokes.vercel.app/api" alt="Random dev joke" />
+
 </div>
 
 <br/>
@@ -294,6 +392,46 @@ A machine learning project that predicts CGPA outcomes from academic data using 
 <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 </div>
+
+<br/>
+
+<details>
+<summary>⚙️ <b>One-time setup — activate the Contribution Snake</b> (click to expand)</summary>
+<br/>
+
+To make the 🐍 snake in the "Press Start" section actually animate through your contribution graph:
+
+1. In this repo, go to **Settings → Actions → General** and enable **"Read and write permissions"** for workflows.
+2. Create a workflow file at `.github/workflows/snake.yml` with:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: CodeByTaufique
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Commit it, let the Action run once, and the snake image in this README will start eating through your real contribution graph automatically.
+
+</details>
 
 <br/>
 
